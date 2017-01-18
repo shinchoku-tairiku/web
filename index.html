@@ -1,10 +1,97 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-reboot.min.css" rel="stylesheet">
+    <link href="css/bootstrap-grid.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
     <title>進捗大陸</title>
   </head>
   <body>
-    <h1>進捗大陸</h1>
+    <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
+      <button class="navbar-toggler navbar-toggler-right" type="button"
+              data-toggle="collapse" data-target="#navbarsExampleDefault"
+              aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="/">進捗大陸</a>
+    </nav>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">進捗大陸</h1>
+        <p>進捗は、そこにあります</p>
+        <div class="progress">
+          <div class="progress-bar bg-success progress-bar-striped progress-bar-animated"
+               role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
+               style="width: 100%"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-3">
+          <h2><span class="badge badge-pill badge-primary">4/9</span>&nbsp;<a href="https://techbookfest.org/event/tbf02">技術書典2</a></h2>
+        </div>
+        <div class="col-md-9">
+          <h3>場所</h3>
+          <p><a href="img/circle-layout.png">う-17</a></p>
+
+          <h3>紹介</h3>
+          <p>技術書典駆動開発にて生成された進捗が書かれる本になる予定です</p>
+
+          <h3>その他いろいろ</h3>
+          <p>近いうちに色々決めます！！</p>
+
+          <h3>内容</h3>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-md-2">
+                  <a href="https://github.com/yutopp">@yutopp</a>
+                </div>
+                <div class="col-md-8">
+                  自作言語 Rill の実装とあれこれ
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2">
+                  <a href="https://github.com/youxkei">@youxkei</a>
+                </div>
+                <div class="col-md-10">
+                  abstract interpretationを使った最適化
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2">
+                  <a href="https://github.com/amutake">@amutake</a>
+                </div>
+                <div class="col-md-10">
+                  Erlang の型検査器を改善する話 (仮)
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; 進捗大陸 2017</p>
+      </footer>
+    </div>
+
+    <script src="js/jquery-3.1.1.slim.min.js"></script>
+    <script src="js/tether.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
