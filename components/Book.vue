@@ -11,11 +11,11 @@
       <b-container>
         <b-row>
 
-          <b-col cols="3">
+          <b-col cols="12" md="3">
             <h3 class="s-event">
               <a :href="book.event.url" target="_blank"><b-badge pill variant="primary">{{book.event.date}}</b-badge><span class="s-t"> {{book.event.title}}</span></a>
             </h3>
-            <a :href="book.event.circle.url" target="_blank"><img :src="image_url"></a>
+            <a :href="book.event.circle.url" target="_blank"><img class="book-cover" :src="image_url"></a>
 
             <b-row class="justify-content-md-center">
               <b-col cols="6">
@@ -29,7 +29,7 @@
             </b-row>
           </b-col>
 
-          <b-col cols="9">
+          <b-col cols="12" md="9">
             <h3>場所</h3>
             <p><a :href="event_circle_location_url" target="_blank">{{book.event.circle.location.label}}</a></p>
 
@@ -92,5 +92,7 @@ export default class Book extends Vue {
 </script>
 
 <style scoped>
-
+.book-cover {
+  width: 100%;
+}
 </style>
