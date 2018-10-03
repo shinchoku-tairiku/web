@@ -33,7 +33,7 @@ export default {
     var current = new Date();
     var ny = new Date(current.getFullYear(), 0);
     return {
-      progress: Math.round((current-ny)/1000/60/60/24/365*100),
+      progress: Math.round((current-ny)/1000/60/60/24/365*100), // Days from new year's day
     }
   },
   head () {
