@@ -12,7 +12,7 @@
     <template slot="lead">
       進捗は、そこにあります
     </template>
-    <b-progress :value="25" variant="success" striped :animated="true" class="mb-2"></b-progress>
+    <b-progress :value="progress" variant="success" striped :animated="true" class="mb-2"></b-progress>
   </b-jumbotron>
 
   <b-container>
@@ -31,15 +31,12 @@
 export default {
   data () {
     return {
-      title: 'Hello World!'
+      progress: 60,
     }
   },
   head () {
     return {
-      title: this.title,
-      meta: [
-        { hid: 'description', name: 'description', content: 'My custom description' }
-      ]
+      title: "進捗大陸",
     }
   }
 }
