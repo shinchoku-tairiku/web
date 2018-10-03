@@ -8,12 +8,6 @@ const argv = parseArgs(process.argv.slice(2), {
   unknown: parameter => false
 })
 
-const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
-  router: {
-    base: '/web/'
-  }
-} : {}
-
 const port =
   argv.port ||
   process.env.PORT ||
@@ -29,6 +23,9 @@ module.exports = {
     baseUrl:
       process.env.BASE_URL ||
       `http://${host}:${port}`
+  },
+  router: {
+    base: '/web/',
   },
   head: {
     title: "進捗大陸",
@@ -49,7 +46,7 @@ module.exports = {
       {
         rel: "icon",
         type: "image/x-icon",
-        href: "/favicon.ico"
+        href: "/web/favicon.ico"
       }
     ]
   },
@@ -73,6 +70,5 @@ module.exports = {
       ['bootstrap-vue/nuxt', { css: false }],
       "~/modules/typescript.js"
   ],
-  axios: {},
-  ...routerBase
+  axios: {}
 }

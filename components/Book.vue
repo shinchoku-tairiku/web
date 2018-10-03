@@ -15,7 +15,7 @@
             <h3 class="s-event">
               <a :href="book.event.url" target="_blank"><b-badge pill variant="primary">{{book.event.date}}</b-badge><span class="s-t"> {{book.event.title}}</span></a>
             </h3>
-            <a :href="book.event.circle.url" target="_blank"><img :src="book.image_url"></a>
+            <a :href="book.event.circle.url" target="_blank"><img :src="image_url"></a>
 
             <b-row class="justify-content-md-center">
               <b-col cols="6">
@@ -31,7 +31,7 @@
 
           <b-col cols="9">
             <h3>場所</h3>
-            <p><a :href="book.event.circle.location.url">{{book.event.circle.location.label}}</a></p>
+            <p><a :href="event_circle_location_url" target="_blank">{{book.event.circle.location.label}}</a></p>
 
             <h3>紹介</h3>
             <p>{{book.description}}</p>
@@ -40,7 +40,7 @@
 
             <b-table :items="book.content.items" :fields="book.content.fields">
               <template slot="author" slot-scope="data">
-                <a :href="data.value.url">{{data.value.name}}</a>
+                <a :href="data.value.url" target="_blank">{{data.value.name}}</a>
               </template>
             </b-table>
 
@@ -85,7 +85,7 @@ export default class Book extends Vue {
     return {
       anchor: "#" + this.book.id,
       image_url: require("~/static"+this.book.image_url),
-      event_circle_location_url require("~/static"+this.book.event.circle.location.url)
+      event_circle_location_url: require("~/static"+this.book.event.circle.location.url),
     }
   }
 }

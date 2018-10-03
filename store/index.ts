@@ -11,7 +11,7 @@ export const mutations = {
 export const actions = {
     async nuxtServerInit({ commit }, { app }) {
         const books = await app.$axios.$get(
-            "./books.json"
+            "/web/books.json"
         )
         commit("setBooks", books)
     }
