@@ -17,13 +17,13 @@
 
   <b-container>
     <nuxt/>
+
+    <hr>
+
+    <footer>
+      <p>&copy; 進捗大陸 2017 - 2018</p>
+    </footer>
   </b-container>
-
-  <hr>
-
-  <footer>
-    <p>&copy; 進捗大陸 2017 - 2018</p>
-  </footer>
 </div>
 </template>
 
