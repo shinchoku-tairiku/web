@@ -30,8 +30,10 @@
 <script>
 export default {
   data () {
+    var current = new Date();
+    var ny = new Date(current.getFullYear(), 0);
     return {
-      progress: 60,
+      progress: Math.round((current-ny)/1000/60/60/24/365*100),
     }
   },
   head () {
