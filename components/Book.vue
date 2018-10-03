@@ -83,7 +83,9 @@ export default class Book extends Vue {
   @Prop() book
   data() {
     return {
-      anchor: "#" + this.book.id
+      anchor: "#" + this.book.id,
+      image_url: require("~/static"+this.book.image_url),
+      event_circle_location_url require("~/static"+this.book.event.circle.location.url)
     }
   }
 }
