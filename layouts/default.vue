@@ -36,10 +36,5 @@ export default {
       progress: Math.round((current-ny)/1000/60/60/24/365*100), // Days from new year's day
     }
   },
-  head () {
-    return {
-      title: "進捗大陸",
-    }
-  }
 }
 </script>

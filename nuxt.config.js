@@ -37,10 +37,18 @@ module.exports = {
           "width=device-width, initial-scale=1"
       },
       {
+        property: 'og:title',
+        content: '進捗大陸'
+      },
+      {
+        property: 'og:description',
+        content: '進捗は、そこにあります'
+      },
+      {
         hid: "description",
         name: "description",
         content: "shinchokutairiku"
-      }
+      },
     ],
     link: [
       {
