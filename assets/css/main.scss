@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    font-family: YuGothic,'Yu Gothic','ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
+}
+
+.s-title {
+    .badge {
+        margin-right: 0.5em;
+    }
+    i, a {
+        vertical-align: bottom;
+    }
+}
+
+.s-event .s-t {
+    font-size: 75%;
+}
+
+.s-circle-btn {
+    margin-top: 0.5em;
+}
