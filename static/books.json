@@ -1,6 +1,92 @@
 [
     {
         "new": true,
+        "id": "shinchoku_tairiku_05",
+        "title": "進捗大陸05",
+        "image_url": "/img/05.png",
+        "subtitle": "進捗どうですか？",
+        "event": {
+            "title": "技術書典6",
+            "url": "https://techbookfest.org/event/tbf06",
+            "date": "2019/04/14",
+            "circle": {
+                "location": {
+                    "label": "こ08",
+                    "url": "/img/tbf06-circle-layout.png"
+                },
+                "url": null
+            }
+        },
+        "description": "進捗します．",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　<価格未定>"
+            },
+            {
+                "text": "booth版(pdf)　<価格未定>"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"},
+                {"key": "description", "label": "内容"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                },
+                {
+                    "author": {
+                        "name": "@インターネットの闇",
+                        "url": "https://github.com/nomaddo"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                },
+                {
+                    "author": {
+                        "name": "@youxkei",
+                        "url": "https://github.com/youxkei"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                },
+                {
+                    "author": {
+                        "name": "@pocketberserker",
+                        "url": "https://github.com/pocketberserker"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                },
+                {
+                    "author": {
+                        "name": "@halcat0x15a",
+                        "url": "https://github.com/halcat0x15a"
+                    },
+                    "title": "<未定>",
+                    "description": "<未定>"
+                }
+            ]
+        }
+    },
+
+
+    {
         "id": "shinchoku_tairiku_04",
         "title": "進捗大陸04",
         "image_url": "/img/04.png",
@@ -23,7 +109,11 @@
                 "text": "物理版(紙媒体)　500円"
             },
             {
-                "text": "当日公開　booth版(pdf)　500円"
+                "link": {
+                    "text": "booth版(pdf)",
+                    "url": "https://shinchokutairiku.booth.pm/items/1038458"
+                },
+                "text": "500円"
             }
         ],
         "content": {

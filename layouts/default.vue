@@ -21,7 +21,7 @@
     <hr>
 
     <footer>
-      <p>&copy; 進捗大陸 2017 - 2018</p>
+      <p>&copy; 進捗大陸 2017 - 2019</p>
     </footer>
   </b-container>
 </div>
