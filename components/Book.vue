@@ -22,7 +22,8 @@
                 <b-button :href="book.event.circle.url"
                           target="_blank"
                           variant="success"
-                          class="s-circle-btn">
+                          class="s-circle-btn"
+                          :disabled="book.event.circle.url === null">
                   サークル詳細
                 </b-button>
               </b-col>
