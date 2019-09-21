@@ -21,3 +21,9 @@ $ npm run generate:gh-pages
 # deploy
 $ npm run deploy
 ```
+
+## Memo
+
+``` bash
+$ convert 06.png -resize 250x354 -quality 95 06.png
+```
