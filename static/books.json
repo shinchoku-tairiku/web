@@ -23,7 +23,11 @@
                 "text": "物理版(紙媒体)　1000円"
             },
             {
-                "text": "booth版(pdf)　1000円"
+              "link": {
+                "text": "booth版(pdf)",
+                "url": "https://shinchokutairiku.booth.pm/items/1309694"
+              },
+              "text": "1000円"
             }
         ],
         "content": {
