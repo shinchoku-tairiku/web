@@ -1,0 +1,22 @@
+<table>
+  <thead>
+    <tr>
+      <th align="left">参加イベント</th>
+      <th align="left">開催日</th>
+      <th align="left">スペース</th>
+      <th align="left">サークルページ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <a href="{{ $.Page.Params.event_link }}" target="_blank">{{ $.Page.Params.event_name }}</a>
+      </td>
+      <td align="left">{{ $.Page.Params.event_date }}</td>
+      <td align="left">{{ $.Page.Params.circle_space }}</td>
+      <td align="left">
+        <a href="{{ $.Page.Params.circle_link }}" target="_blank">進捗大陸</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
