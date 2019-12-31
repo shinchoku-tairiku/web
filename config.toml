@@ -129,12 +129,15 @@ page = "/:slug/"
 
 [[menu.main]]
 name = "Repo"
-weight = -10
+weight = 0
 identifier = "repository"
 url = "https://github.com/shinchoku-tairiku"
 
-[blackfriday]
-hrefTargetBlank = true
+[[menu.main]]
+name = "Booth"
+weight = 10
+identifier = "booth"
+url = "https://shinchokutairiku.booth.pm/"
 
 [languages]
 # edit this block for your own language
@@ -142,3 +145,6 @@ hrefTargetBlank = true
 lang = "ja"
 languageName = "Japanese"
 weight = 1
+
+[markup.goldmark.renderer]
+unsafe = true

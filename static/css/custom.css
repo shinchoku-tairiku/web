@@ -1,0 +1,43 @@
+/* Overrides */
+body {
+    font-size: 1em;
+}
+
+.sep-after:after, .sep-before:before {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.widget-about .site-title {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.entry-footer .container>div:first-child {
+    margin-top: 0;
+}
+
+/* Appendix */
+.book-wrapper {
+    /* max-width: 740px; */
+    display:flex;
+    display:-webkit-box;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+    padding: 0;
+}
+.book-wrapper > .cover {
+    width: 250px;
+}
+.book-wrapper > .text {
+    max-width: 440px; /* 700 - 250 - 10 */
+    margin-left: 10px;
+    flex-grow: 1;
+    word-break: break-all;
+}
+
+a.no-border {
+    border: none;
+}
