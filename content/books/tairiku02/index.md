@@ -30,7 +30,7 @@ booth_link: https://shinchokutairiku.booth.pm/items/666792
     </div>
     <div class="text">
         <ul>
-            <li>物理版(紙媒体): 500円</li>
+            <li>物理版(紙媒体)　500円</li>
         </ul>
         <ul>
             <li>booth版(pdf) 300円</li>

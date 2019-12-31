@@ -30,9 +30,9 @@ booth_link: https://shinchokutairiku.booth.pm/items/491301
     </div>
     <div class="text">
         <ul>
-            <li>紙媒体: 500円</li>
-            <li>電子版(pdf)ダウンロードカード: 300円</li>
-            <li>両方セット: 700円</li>
+            <li>紙媒体　500円</li>
+            <li>電子版(pdf)ダウンロードカード　300円</li>
+            <li>両方セット　700円</li>
         </ul>
         <ul>
             <li>booth版(pdf) 300円</li>

@@ -12,7 +12,7 @@ tags:
   - 電子版
 event_name: 技術書典4
 event_link: https://techbookfest.org/event/tbf04
-event_date: 2018-04-22
+event_date: 2018/04/22
 circle_link: https://techbookfest.org/event/tbf04/circle/15500001
 circle_space: か02
 booth_link: https://shinchokutairiku.booth.pm/items/828610
@@ -30,10 +30,10 @@ booth_link: https://shinchokutairiku.booth.pm/items/828610
     </div>
     <div class="text">
         <ul>
-            <li>物理版(紙媒体): 500円</li>
+            <li>物理版(紙媒体)　500円</li>
         </ul>
         <ul>
-            <li>booth版(pdf): 500円</li>
+            <li>booth版(pdf)　500円</li>
         </ul>
         {{< booth-link >}}
     </div>
