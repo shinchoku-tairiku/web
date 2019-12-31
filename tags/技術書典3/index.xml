@@ -18,7 +18,7 @@
       
       <guid>https://shinchoku-tairiku.github.io/web/books/tairiku02/</guid>
       <description>紹介 2017年10月分の技術書典駆動開発にて生成された進捗をまとめた本です。
-   参加イベント 開催日 スペース サークルページ     技術書典3  2017/10/22 お16 進捗大陸        物理版(紙媒体)　500円   booth版(pdf) 300円     内容    タイトル 著者 詳細     自作言語RillとWebAssembly @yutopp LLVMを使ったWASMサポートとランタイム移植の話   再帰を持つ関数型言語の符号解析 @youxkei 抽象解釈を使って関数型言語の符号を解析するpart2   証明付き分散システムを作ろう！ @amutake Coqの分散システム実装フレームワークVerdiの紹介    謝辞  背景画像: https://flickr.com/photos/96228372@N06/25596556801 加工: https://github.com/williamngan/kubist  </description>
+   参加イベント 開催日 スペース サークルページ     技術書典3  2017/10/22 お16 進捗大陸        物理版(紙媒体)　500円   booth版(pdf) 300円     内容    タイトル 著者 詳細     自作言語RillとWebAssembly @yutopp  LLVMを使ったWASMサポートとランタイム移植の話   再帰を持つ関数型言語の符号解析 @youxkei  抽象解釈を使って関数型言語の符号を解析するpart2   証明付き分散システムを作ろう！ @amutake  Coqの分散システム実装フレームワークVerdiの紹介    謝辞  背景画像: https://flickr.com/photos/96228372@N06/25596556801 加工: https://github.</description>
     </item>
     
   </channel>

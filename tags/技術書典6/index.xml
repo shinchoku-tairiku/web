@@ -18,7 +18,7 @@
       
       <guid>https://shinchoku-tairiku.github.io/web/books/tairiku05/</guid>
       <description>紹介 春の進捗フェア！ 6名による技術合同誌です．全96ページ．
-   参加イベント 開催日 スペース サークルページ     技術書典6  2019/04/14 こ08 進捗大陸        物理版(紙媒体)　1000円   booth版(pdf) 1000円     内容    タイトル 著者 キーワード     LSP 対応言語処理系つくってみた @yutopp Parser, エラー回復, LSP, OCaml, Menhir, Emacs   ループ最適化の基礎 @no_maddo (インターネットの闇) コンパイラ, 最適化, SIMD, ループ最適化   Git リポジトリの復元ポイントを作る @youxkei Git, 内部構造   インデント依存な言語の構文解析 @pocketberserker Parser   Conflict-free Replicated Data Types 入門 @amutake CRDT, 分散システム, レプリケーション, Erlang   Scala らしい Eff を目指して @halcat0x15a Scala, Extensible Effects, Monad Transformers, Subtyping    </description>
+   参加イベント 開催日 スペース サークルページ     技術書典6  2019/04/14 こ08 進捗大陸        物理版(紙媒体)　1000円   booth版(pdf) 1000円     内容    タイトル 著者 キーワード     LSP 対応言語処理系つくってみた @yutopp  Parser, エラー回復, LSP, OCaml, Menhir, Emacs   ループ最適化の基礎 @no_maddo (インターネットの闇)  コンパイラ, 最適化, SIMD, ループ最適化   Git リポジトリの復元ポイントを作る @youxkei  Git, 内部構造   インデント依存な言語の構文解析 @pocketberserker  Parser   Conflict-free Replicated Data Types 入門 @amutake  CRDT, 分散システム, レプリケーション, Erlang   Scala らしい Eff を目指して @halcat0x15a  Scala, Extensible Effects, Monad Transformers, Subtyping    </description>
     </item>
     
   </channel>
