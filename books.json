@@ -1,0 +1,447 @@
+[
+    {
+        "new": true,
+        "id": "shinchoku_tairiku_06",
+        "title": "進捗大陸06",
+        "image_url": "/img/06.png",
+        "subtitle": "春の進捗フェア",
+        "event": {
+            "title": "技術書典7",
+            "url": "https://techbookfest.org/event/tbf07",
+            "date": "2019/09/22",
+            "circle": {
+                "location": {
+                    "label": "す01D",
+                    "url": "/img/tbf07-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf07/circle/5670497807237120"
+            }
+        },
+        "description": "6回目の進捗合同誌",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　500円"
+            },
+            {
+              "link": {
+                "text": "booth版(pdf)",
+                "url": "https://shinchokutairiku.booth.pm/items/1574189"
+              },
+              "text": "500円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "アセンブラをアセンブリで作ってみる"
+                },
+                {
+                    "author": {
+                        "name": "@pocketberserker",
+                        "url": "https://github.com/pocketberserker"
+                    },
+                    "title": "作って覚えるコンピュテーション式 "
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "SATySFiで技術同人誌を作ろう"
+                }
+            ]
+        }
+    },
+
+
+    {
+        "id": "shinchoku_tairiku_05",
+        "title": "進捗大陸05",
+        "image_url": "/img/05.png",
+        "subtitle": "春の進捗フェア",
+        "event": {
+            "title": "技術書典6",
+            "url": "https://techbookfest.org/event/tbf06",
+            "date": "2019/04/14",
+            "circle": {
+                "location": {
+                    "label": "こ08",
+                    "url": "/img/tbf06-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf06/circle/54370002"
+            }
+        },
+        "description": "春の進捗フェア！ 6名による技術合同誌です．全96ページ．",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　1000円"
+            },
+            {
+              "link": {
+                "text": "booth版(pdf)",
+                "url": "https://shinchokutairiku.booth.pm/items/1309694"
+              },
+              "text": "1000円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"},
+                {"key": "keywords", "label": "キーワード"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "LSP 対応言語処理系つくってみた",
+                    "keywords": "Parser, エラー回復, LSP, OCaml, Menhir, Emacs"
+                },
+                {
+                    "author": {
+                        "name": "@no_maddo (インターネットの闇)",
+                        "url": "https://github.com/nomaddo"
+                    },
+                    "title": "ループ最適化の基礎",
+                    "keywords": "コンパイラ, 最適化, SIMD, ループ最適化"
+                },
+                {
+                    "author": {
+                        "name": "@youxkei",
+                        "url": "https://github.com/youxkei"
+                    },
+                    "title": "Git リポジトリの復元ポイントを作る",
+                    "keywords": "Git, 内部構造"
+                },
+                {
+                    "author": {
+                        "name": "@pocketberserker",
+                        "url": "https://github.com/pocketberserker"
+                    },
+                    "title": "インデント依存な言語の構文解析",
+                    "keywords": "Parser"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "Conflict-free Replicated Data Types 入門",
+                    "keywords": "CRDT, 分散システム, レプリケーション, Erlang"
+                },
+                {
+                    "author": {
+                        "name": "@halcat0x15a",
+                        "url": "https://github.com/halcat0x15a"
+                    },
+                    "title": "Scala らしい Eff を目指して",
+                    "keywords": "Scala, Extensible Effects, Monad Transformers, Subtyping"
+                }
+            ]
+        }
+    },
+
+
+    {
+        "id": "shinchoku_tairiku_04",
+        "title": "進捗大陸04",
+        "image_url": "/img/04.png",
+        "subtitle": "進捗の秋2018",
+        "event": {
+            "title": "技術書典5",
+            "url": "https://techbookfest.org/event/tbf05",
+            "date": "2018/10/08",
+            "circle": {
+                "location": {
+                    "label": "き14",
+                    "url": "/img/tbf05-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf05/circle/41010005"
+            }
+        },
+        "description": "進捗の秋！！！",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　500円"
+            },
+            {
+                "link": {
+                    "text": "booth版(pdf)",
+                    "url": "https://shinchokutairiku.booth.pm/items/1038458"
+                },
+                "text": "500円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"},
+                {"key": "description", "label": "内容"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "実践！ Goで実装 RTMPサーバー",
+                    "description": "RTMPの仕様の解説からGo風の設計と実装まで"
+                },
+                {
+                    "author": {
+                        "name": "@youxkei",
+                        "url": "https://github.com/youxkei"
+                    },
+                    "title": "ソースコードフォーマッタを作る",
+                    "description": "フォーマッティングのアルゴリズムとその実装"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "RustでQUICクライアント実装",
+                    "description": "次世代プロトコルQUICの仕様とRustによる実装方法"
+                }
+            ]
+        },
+        "thanks": [
+            {
+                "for": "背景画像",
+                "name": "https://flic.kr/p/dpTzgZ",
+                "url": "https://flic.kr/p/dpTzgZ"
+            },
+            {
+                "for": "加工",
+                "name": "https://williamngan.github.io/kubist/",
+                "url": "https://williamngan.github.io/kubist/"
+            }
+        ]
+    },
+
+
+    {
+        "id": "shinchoku_tairiku_03",
+        "title": "言語処理系のススメ - 進捗大陸03",
+        "image_url": "/img/03.png",
+        "subtitle": "進捗の春2018",
+        "event": {
+            "title": "技術書典4",
+            "url": "https://techbookfest.org/event/tbf04",
+            "date": "2018/04/22",
+            "circle": {
+                "location": {
+                    "label": "か02",
+                    "url": "/img/tbf04-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf04/circle/15500001"
+            }
+        },
+        "description": "言語処理系に関する進捗を纏めた合同誌です。",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　500円"
+            },
+            {
+                "link": {
+                    "text": "booth版(pdf)",
+                    "url": "https://shinchokutairiku.booth.pm/items/828610"
+                },
+                "text": "500円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@インターネットの闇",
+                        "url": "https://github.com/nomaddo"
+                    },
+                    "title": "Raspberry PiのGPUを使う"
+                },
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "LLVMで作り直す自作言語入門"
+                },
+                {
+                    "author": {
+                        "name": "@pocketberserker",
+                        "url": "https://github.com/pocketberserker"
+                    },
+                    "title": "BuckleScriptでTranspilerを作る"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "Erlang VM で動く静的型付き言語 Alpaca の紹介"
+                }
+            ]
+        },
+        "thanks": [
+            {
+                "for": "イラスト",
+                "name": "Alt",
+                "url": "https://twitter.com/alt_ap"
+            }
+        ]
+    },
+
+
+    {
+        "id": "shinchoku_tairiku_02",
+        "title": "進捗大陸02",
+        "image_url": "/img/02.png",
+        "subtitle": "2017年で最高の進捗",
+        "event": {
+            "title": "技術書典3",
+            "url": "https://techbookfest.org/event/tbf03",
+            "date": "2017/10/22",
+            "circle": {
+                "location": {
+                    "label": "お16",
+                    "url": "/img/tbf03-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf03/circle/5765033938124800"
+            }
+        },
+        "description": "2017年10月分の技術書典駆動開発にて生成された進捗をまとめた本です。",
+        "prices": [
+            {
+                "text": "物理版(紙媒体)　500円"
+            },
+            {
+                "link": {
+                    "text": "booth版(pdf)",
+                    "url": "https://shinchokutairiku.booth.pm/items/666792"
+                },
+                "text": "300円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"},
+                {"key": "description", "label": "内容"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "自作言語RillとWebAssembly",
+                    "description": "LLVMを使ったWASMサポートとランタイム移植の話"
+                },
+                {
+                    "author": {
+                        "name": "@youxkei",
+                        "url": "https://github.com/youxkei"
+                    },
+                    "title": "再帰を持つ関数型言語の符号解析",
+                    "description": "抽象解釈を使って関数型言語の符号を解析するpart2"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "証明付き分散システムを作ろう！",
+                    "description": "Coqの分散システム実装フレームワークVerdiの紹介"
+                }
+            ]
+        },
+        "thanks": [
+            {
+                "for": "背景画像",
+                "name": "https://flickr.com/photos/96228372@N06/25596556801",
+                "url": "https://flickr.com/photos/96228372@N06/25596556801"
+            },
+            {
+                "for": "加工",
+                "name": "https://github.com/williamngan/kubist",
+                "url": "https://github.com/williamngan/kubist"
+            }
+        ]
+    },
+
+
+    {
+        "id": "shinchoku_tairiku_01",
+        "title": "進捗大陸01",
+        "image_url": "/img/01.png",
+        "subtitle": "初進捗2017",
+        "event": {
+            "title": "技術書典2",
+            "url": "https://techbookfest.org/event/tbf02",
+            "date": "2017/04/09",
+            "circle": {
+                "location": {
+                    "label": "う-17",
+                    "url": "/img/tbf02-circle-layout.png"
+                },
+                "url": "https://techbookfest.org/event/tbf02/circle/6036378966032384"
+            }
+        },
+        "description": "技術書典駆動開発にて生成された進捗が本になりました。",
+        "prices": [
+            {
+                "text": "紙媒体: 500円　電子版(pdf)ダウンロードカード: 300円　両方セット: 700円"
+            },
+            {
+                "link": {
+                    "text": "booth版(pdf)",
+                    "url": "https://shinchokutairiku.booth.pm/items/491301"
+                },
+                "text": "300円"
+            }
+        ],
+        "content": {
+            "fields": [
+                {"key": "author", "label": "著者"},
+                {"key": "title", "label": "タイトル"}
+            ],
+            "items": [
+                {
+                    "author": {
+                        "name": "@yutopp",
+                        "url": "https://github.com/yutopp"
+                    },
+                    "title": "自作言語 Rill の実装とあれこれ"
+                },
+                {
+                    "author": {
+                        "name": "@youxkei",
+                        "url": "https://github.com/youxkei"
+                    },
+                    "title": "抽象解釈による関数型言語の静的解析"
+                },
+                {
+                    "author": {
+                        "name": "@amutake",
+                        "url": "https://github.com/amutake"
+                    },
+                    "title": "静的に型がつく Erlang を目指して"
+                }
+            ]
+        }
+    }
+]

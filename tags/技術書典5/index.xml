@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技術書典5 on 進捗大陸</title>
+    <link>https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</link>
+    <description>Recent content in 技術書典5 on 進捗大陸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 進捗大陸 2017 - 2020</copyright>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>同人誌: 進捗大陸04</title>
+      <link>https://shinchoku-tairiku.github.io/web/books/tairiku04/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://shinchoku-tairiku.github.io/web/books/tairiku04/</guid>
+      <description>紹介 進捗の秋！！！
+   参加イベント 開催日 スペース サークルページ     技術書典5  2018/10/08 き14 進捗大陸        物理版(紙媒体)　500円   booth版(pdf) 500円     内容    タイトル 著者 詳細     実践！ Goで実装 RTMPサーバー @yutopp  RTMPの仕様の解説からGo風の設計と実装まで   ソースコードフォーマッタを作る @youxkei  フォーマッティングのアルゴリズムとその実装   RustでQUICクライアント実装 @amutake  次世代プロトコルQUICの仕様とRustによる実装方法    謝辞  背景画像: https://flic.</description>
+    </item>
+    
+  </channel>
+</rss>
