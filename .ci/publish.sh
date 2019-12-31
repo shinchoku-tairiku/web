@@ -2,6 +2,10 @@
 
 # https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script-1
 
+set -eu
+
+REMOTE_BRANCH=origin/gh-pages
+
 if [ "`git status -s`" ]
 then
     echo "The working directory is dirty. Please commit any pending changes."
@@ -15,7 +19,7 @@ git worktree prune
 rm -rf .git/worktrees/public/
 
 echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public upstream/gh-pages
+git worktree add -B gh-pages public $REMOTE_BRANCH
 
 echo "Removing existing files"
 rm -rf public/*
