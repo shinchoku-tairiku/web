@@ -32,8 +32,8 @@ body {
     width: 250px;
 }
 .book-wrapper > .text {
-    max-width: 440px; /* 700 - 250 - 10 */
-    margin-left: 10px;
+    max-width: 435px; /* 700 - 250 - 15 */
+    margin-left: 15px;
     flex-grow: 1;
     word-break: break-all;
 }

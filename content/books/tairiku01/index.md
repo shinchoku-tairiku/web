@@ -10,17 +10,19 @@ tags:
   - 技術書典2
   - 物理本
   - 電子版
+event_name: 技術書典2
+event_link: https://techbookfest.org/event/tbf02
+event_date: 2017/04/09
 circle_link: https://techbookfest.org/event/tbf02/circle/6036378966032384
+circle_space: う-17
 booth_link: https://shinchokutairiku.booth.pm/items/491301
 ---
 
 ## 紹介
 
 技術書典駆動開発にて生成された進捗が本になりました。
-        
-|参加イベント|開催日|スペース|サークルページ|
-|:-|:-|:-|:--|
-|[技術書典2](https://techbookfest.org/event/tbf02)|2017/04/09|う-17|[進捗大陸](https://techbookfest.org/event/tbf02/circle/6036378966032384)|
+
+{{< event-table >}}
 
 <div class="book-wrapper">
     <div class="cover">
