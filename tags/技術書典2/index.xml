@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>技術書典2 on 進捗大陸</title>
-    <link>https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B82/</link>
-    <description>Recent content in 技術書典2 on 進捗大陸</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 進捗大陸 2017 - 2020</copyright>
-    <lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>同人誌: 進捗大陸01</title>
-      <link>https://shinchoku-tairiku.github.io/web/books/tairiku01/</link>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://shinchoku-tairiku.github.io/web/books/tairiku01/</guid>
-      <description>紹介 技術書典駆動開発にて生成された進捗が本になりました。
-   参加イベント 開催日 スペース サークルページ     技術書典2  2017/04/09 う-17 進捗大陸        紙媒体　500円 電子版(pdf)ダウンロードカード　300円 両方セット　700円   booth版(pdf) 300円     内容    タイトル 著者     自作言語 Rill の実装とあれこれ @yutopp    抽象解釈による関数型言語の静的解析 @youxkei    静的に型がつく Erlang を目指して @amutake     </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技術書典2 on 進捗大陸</title><link>https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B82/</link><description>Recent content in 技術書典2 on 進捗大陸</description><generator>Hugo -- gohugo.io</generator><copyright>© 進捗大陸 2017 - 2020</copyright><lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0900</lastBuildDate><atom:link href="https://shinchoku-tairiku.github.io/web/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B82/index.xml" rel="self" type="application/rss+xml"/><item><title>同人誌: 進捗大陸01</title><link>https://shinchoku-tairiku.github.io/web/books/tairiku01/</link><pubDate>Sun, 09 Apr 2017 00:00:00 +0900</pubDate><guid>https://shinchoku-tairiku.github.io/web/books/tairiku01/</guid><description>紹介 技術書典駆動開発にて生成された進捗が本になりました。
+参加イベント 開催日 スペース サークルページ 技術書典2 2017/04/09 う-17 進捗大陸 紙媒体　500円 電子版(pdf)ダウンロードカード　300円 両方セット　700円 booth版(pdf) 300円 内容 タイトル 著者 自作言語 Rill の実装とあれこれ @yutopp 抽象解釈による関数型言語の静的解析 @youxkei 静的に型がつく Erlang を目指して @amutake</description></item></channel></rss>
