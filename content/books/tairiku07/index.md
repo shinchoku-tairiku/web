@@ -43,3 +43,4 @@ booth_link: TBD
 |未定|[@yutopp](https://github.com/yutopp)|
 |未定|[@amutake](https://github.com/amutake)|
 |未定|[@nomaddo](https://github.com/nomaddo)|
+|未定|[@pocketberserker](https://github.com/pocketberserker)|
