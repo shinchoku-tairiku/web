@@ -14,12 +14,16 @@ event_link: https://techbookfest.org/event/tbf09
 event_date: 2020/09/12 - 2020/09/22
 circle_link: https://techbookfest.org/organization/5192862555701248
 circle_space: ネットの海 8d97
-booth_link: TBD
+booth_link: https://shinchokutairiku.booth.pm/items/2370539
 ---
 
 ## 紹介
 
 7回目の進捗合同誌です。
+
+{{< event-table >}}
+
+**こちらの本の内容はGitHub上で無償でも公開しております。 https://github.com/shinchoku-tairiku/book07**
 
 <div class="book-wrapper">
     <div class="cover">
@@ -32,6 +36,7 @@ booth_link: TBD
         <ul>
             <li>booth版(pdf) 500円</li>
         </ul>
+        {{< booth-link >}}
     </div>
 </div>
 
