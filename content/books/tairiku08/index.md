@@ -19,7 +19,7 @@ booth_link: https://shinchokutairiku.booth.pm/items/2634607
 
 ## 紹介
 
-7回目の進捗合同誌です。
+8回目の進捗合同誌です。合同誌のシリーズとしては最終回です。
 
 {{< event-table >}}
 
