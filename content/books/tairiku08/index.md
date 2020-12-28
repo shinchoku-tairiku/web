@@ -11,7 +11,7 @@ tags:
   - 電子版
 event_name: 技術書典10
 event_link: https://techbookfest.org/event/tbf10
-event_date: 2020/12/26 - 2021/01/26
+event_date: 2020/12/26 - 2021/01/06
 circle_link: https://techbookfest.org/organization/5192862555701248
 circle_space: ネットの海 224a
 booth_link: https://shinchokutairiku.booth.pm/items/2634607
