@@ -13,8 +13,16 @@ body {
     margin-bottom: 0.5em;
 }
 
+.entry+.list-container {
+    margin-top: 1.5em;
+}
+
 .entry-footer .container>div:first-child {
     margin-top: 0;
+}
+
+.page-links {
+    margin-top: 1.5em;
 }
 
 /* Appendix */
@@ -40,4 +48,8 @@ body {
 
 a.no-border {
     border: none;
+}
+
+hr {
+    margin-top: 1em;
 }
