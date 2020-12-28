@@ -1,7 +1,7 @@
 baseURL = "https://shinchoku-tairiku.github.io/web"
 title = "進捗大陸"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = "© 進捗大陸 2017 - 2020"
+copyright = ""
 
 theme = "minimo"
 
@@ -28,7 +28,7 @@ title404 = "Nothing's here!"
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+customJS = []
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]

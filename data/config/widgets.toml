@@ -1,0 +1,7 @@
+[about]
+logo = "/images/t-logo.png"
+
+[recent_posts]
+title = "最新投稿10件"
+length = 10
+excludeTypes = ["page"]
