@@ -128,9 +128,9 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "GitHub"
 weight = 0
-identifier = "repository"
+identifier = "github"
 url = "https://github.com/shinchoku-tairiku"
 
 [[menu.main]]
